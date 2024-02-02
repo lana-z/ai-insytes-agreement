@@ -40,7 +40,7 @@ Pain Points:
 
 Questions: 
 
-* Where we get the data from (API, public info on the web, public blogs, social media, 
+* Where we get the data from (API, public info on the web, public blogs, social media, etc.)
 
 
 ## Job Search App MVP (companies)
