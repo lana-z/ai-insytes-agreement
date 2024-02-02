@@ -6,19 +6,27 @@
 ### What are the key strengths of each person on the team?
 
 - **Rhett Chase**
-  - **Key strengths:** Project management, analytical skills, problem-solving, learning new concepts, researching topics to find potential solutions.
+
+Key strengths: Project management, analytical, problem-solving, learning new concepts / researching topics to find potential solutions
   
 - **Caleb Hemphill**
-  - **Key strengths:** Collaboration, insatiable curiosity.
+
+Key strengths: Collaboration, insatiable curiosity
   
 - **Immanuel Shin**
-  - **Key strengths:** Problem solving, diligence, quick assimilation.
+
+Key strengths: Problem solving, diligence, quick assimilation
   
 - **Felix A. Taveras**
-  - **Key strengths:** _[Information missing]_
+
+Key strengths: 
   
 - **Lana Zumbrunn**
-  - **Key strengths:** Thought leadership, critical thinking, whiteboarding, layouts, determination.
+
+Key strengths: Thought leadership, critical thinking, whiteboarding, layouts, determination
+
+
+
 
 ## Utilizing Strengths
 
@@ -33,114 +41,175 @@
 
 ### In which professional competencies do you each want to develop greater strength?
 
-- **Rhett:** Technical - Improve efficiency in debugging.
-- **Lana:** Technical - Enhance reading and writing fluency in Python.
-- **Immanuel:** Leadership - Focus on health, safety, adequate eating, and sleeping.
-- **Caleb:** Time management - Better gauge time needed to complete tasks, knowing when to scale back.
-- **Felix:** _[Information missing]_
+- **Rhett:** 
+
+Technical - Improve efficiency in debugging.
+- **Lana:** 
+
+Technical - Enhance reading and writing fluency in Python.
+- **Immanuel:** 
+
+Leadership - Focus on health, safety, adequate eating, and sleeping.
+- **Caleb:** 
+
+Time management - Better gauge time needed to complete tasks, knowing when to scale back.
+
+- **Felix:**
+
 
 ## Day-to-Day Work Approach
 
 ### Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
-- Conduct daily standups.
-- Maintain to-do lists.
-- Address blockers.
-- Use Slack for communication.
-- Engage in collaborative work.
+Daily standups
+- To dos
+- Blockers
+Slack
+Collaborative work
 
-# Conflict Plan
 
-## Resolving Conflicts
+# Conflict Plan'
 
 ### What will be your group’s process to resolve conflict, when it arises?
 
-- Talk through conflicts.
-- Get everyone’s input.
-- Ensure everyone’s say counts toward the decision moving forward.
-- Use humor to lighten the mood, e.g., CAPS FOR HUMOR’S SAKE.
+Talk through it 
 
-## Dominance in Project
+Get everyone’s input 
+
+Everyone’s say counts toward the decision moving forward
+
+LET EACH OTHER KNOW WE’RE FRUSTRATED WITH CAPS FOR HUMOR’S SAKE
 
 ### What will your team do if one person is taking over the project and not letting the other members contribute?
 
-- Approach them with supportive questions like “how can we best support you?”
-- Ensure alignment with the project's direction as a team.
+Say something like “how can we best support you?”
 
-## Skill Level and Understanding
+Can we talk about the direction you’re headed and make sure we’re all with you?
 
 ### How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
 
-- Focus on a reasonable MVP and expand if possible.
-- Be open to reassessment and pivoting.
-- Continuously ask for help and maintain patience within the team.
-- Emphasize team understanding over individual comprehension.
-
-## Inadequate Contributions
+- Work together and teach each other 
 
 ### How will you raise concerns to members who are not adequately contributing?
 
-- Discuss comfort levels and preferred collaborations.
-- Encourage openness about needing help.
+Ask what the person feels comfortable working on 
 
-## Escalation of Conflicts
+And who they would like to work with 
+
+Speak up if it is you who needs help or in over your head so project can move forward
 
 ### How and when will you escalate the conflict if your resolution attempts are unsuccessful?
 
-- Start with person-to-person discussions.
-- Employ an overcommunication approach.
-- Escalate from team to individual if needed.
-- Address issues during standups.
-- If unresolved, consult with JB (presumably a mentor or project manager).
+Person to person
+
+- Overcommunication approach 
+
+Team to person
+
+- During stand up
+
+Team goes to JB
+
+- If not resolved during stand up 
 
 # Communication Plan
 
-## Availability
-
 ### What hours will you be available to communicate?
+Lana: 8:30am - 9pm Pacific with about an hour out in evening 
 
-- **Lana:** 8:30 AM - 9:00 PM Pacific, with about an hour break in the evening.
-- **Caleb:** 9:00 AM - 9:00 PM Pacific.
-- **Rhett:** 9:00 AM - 9:00 PM Pacific, with a 1-1.5 hour dinner break.
-- **Immanuel:** 9:00 AM - 9:00 PM PST.
-- **Felix:** _[Information missing]_
-- **Standup Time:** 9:00 AM Pacific.
+Caleb: 9am - 9pm Pacific
 
-## Platforms
+Rhett: 9am - 9 pm Pacific (~1-1.5 dinner break)
 
-### What platforms will you use to communicate?
+Immanuel: 9am - 9pm PST
 
-- Slack for primary communication.
+Felix: 
 
-## Breaks and Falling Behind
+### Standup 
+- 9am Pacific 
 
-### How often will you take breaks and what is your plan if you start to fall behind?
+### What platforms will you use to communicate (ie. Slack, phone …)?
+Slack
 
-- Take breaks as needed.
-- If falling behind, reassess key features and seek help from JB/TAs.
+### How often will you take breaks?
 
-## After Hours Communication
+As needed 
+
+Shoot for short breaks every 60-90 minutes 
+
+### What is your plan if you start to fall behind?
+
+Caffeine
+
+Reassess the key features and other options for accomplishing the goal
+
+Ask for help or insight from JB/TAs
+
+Start with the more simple idea 
 
 ### How will you communicate after hours and on the weekend?
 
-- Follow the discussed after-hours communication plan.
-
-## Ensuring Everyone's Voice Is Heard
+Discussed above
 
 ### What is your strategy for ensuring everyone’s voice is heard?
 
-- Actively listen and ask for input.
-- Ensure open discussions during standups.
+Listen
 
-## Safe Environment
+Ask 
 
-### How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
+Talk openly in stand up - everyone’s voices ‘in the room’ at stand ups
 
-- Define what a safe environment looks like for each team member.
-- Promote patience, respect, and open communication.
+How will you ensure that you are creating a safe environment where 
+everyone feels comfortable speaking up?
+
+### What does a safe environment look like to you? 
+
+Lana: patience for questions if I don’t understand
+
+Rhett: listening and treating each other with respect
+
+Immanuel: Open communication
+
+Felix: 
+
+Caleb: Free to make mistakes
 
 # Work Plan
 
-## Task Management
+NOTE: While researching and experimentation is always encouraged, writing and/or committing code to the project on your own during non-working hours or over the weekend is never acceptable. This puts the entire project at risk. Be explicit in calling out your work hours and the distribution of tasks. 
 
-### How you will identify tasks, assign tasks, know when they
+### Describe at least:
+### How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
+
+We’ll start our standup with review of PM tool and decide what we’ll work on from that
+
+What project management tool will be used?
+
+Github project management
+
+
+# Git Process
+Plan out what your team’s Git workflow looks like for coding tasks.
+### What components of your project will live on GitHub?
+
+All repositories
+
+### How will you share the repository with your teammates?
+
+Create an organization profile on GitHub so everyone has access to the repositories
+
+### What is your Git flow?
+- Main Branch: The main branch should always contain production-ready code. Consider this the stable branch. `git checkout main`
+- Dev Branch: The Dev branch is where active development occurs. It's a branch from which feature branches are created. `git checkout -b dev`
+- Feature Branch: Each new feature or bugfix should be developed in a feature branch branching off from dev. `git checkout -b feature/new-feature develop`
+- Once the feature is complete, it's merged back into dev branch. 
+- Will you be using a PR review workflow? If so, consider:
+
+### How many people must review a PR? At least 2
+Who merges PRs? Primary person who wrote the code (once review complete)
+
+### How often will you merge? 
+Daily, or as needed for major update
+
+### How will you communicate that it’s time to merge? 
+Slack and all other collaboration communication
