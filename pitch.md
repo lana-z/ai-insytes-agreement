@@ -9,6 +9,14 @@ _Name of Project_
 3. Minimum Viable Product (MVP) definition.
     * What is the minimum required for you to present on your demo day?
 
+## Project Members
+
+* Lara Zumbrunn  
+* Caleb Hemphill  
+* Rhett Chase  
+* Felix Traveras  
+* Immanuel Shin  
+
 
 ## Lead Generation App MVP (individuals)
 
@@ -32,7 +40,7 @@ Pain Points:
 
 Questions: 
 
-* Where we get the data from (API, public info on the web, public blogs, social media, 
+* Where we get the data from (API, public info on the web, public blogs, social media, etc.)
 
 
 ## Job Search App MVP (companies)
